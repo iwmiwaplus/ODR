@@ -47,11 +47,12 @@
 
 <div align="center">
 
-### Cropland Validation Points
+### Cropland Validation
 
 </div >
 
 ![Africa Data](/Figures/Data_africa.png)
+<p align="center"> Fig. 01 - Cropland Validation Points </p>
 
 ### Validation dataset
 - 955 (554 irrigated and 401 rainfed) cropland locations 
