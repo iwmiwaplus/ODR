@@ -44,6 +44,7 @@
 |                  | GLC-SHARE  | 1000     | 2013    |
 |                  | GlobCover  | 300      | 2005, 2009       |
 |                  | WaPOR  v2.0  landcover  | 250  | 2009, 2020       |
+<p align="center"> Table. 01 - Data and Resolutions </p>
 
 <div align="center">
 
@@ -52,7 +53,7 @@
 </div >
 
 ![Africa Data](/Figures/Data_africa.png)
-<p align="center"> Fig. 01 - Cropland Validation Points </p>
+<p align="center"> Figure 01 - Cropland Validation Points </p>
 
 ### Validation dataset
 - 955 (554 irrigated and 401 rainfed) cropland locations 
