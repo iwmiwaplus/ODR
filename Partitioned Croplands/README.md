@@ -44,7 +44,7 @@
 |                  | GLC-SHARE  | 1000     | 2013    |
 |                  | GlobCover  | 300      | 2005, 2009       |
 |                  | WaPOR  v2.0  landcover  | 250  | 2009, 2020       |
-<p align="center"> Table. 01 - Data and Resolutions </p>
+<p align="center"> Table 01 - Data and Resolutions </p>
 
 <div align="center">
 
