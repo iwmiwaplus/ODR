@@ -62,7 +62,7 @@
 
 <small> Table 01 - Data and Resolutions </small>
 
-</small>
+</div>
 
 <div align="center">
 
@@ -74,7 +74,6 @@
 <div align="center">
 
 <small> Figure 01 - Cropland Validation Points </small>
-
 </div>
 
 ### Validation dataset
