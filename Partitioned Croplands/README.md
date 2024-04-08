@@ -91,15 +91,16 @@
 
 <div align="center">
 
-| **Product**      | **Correct points** | **Accuracy** assessment |
+| Product      | Correct points | Accuracy assessment |
 |--------------|----------------|---------------------|
-| WaPOR        | 868            | 91%                 |
-| Copernicus   | 807            | 85%                 |
-| GLC-SHARE    | 779            | 82%                 |
+| <span style="background-color:brown">WaPOR</span>       | <span style="background-color:brown">868</span>            | <span style="background-color:brown">91%</span>                 |
+| <span style="background-color:brown">Copernicus</span>  | <span style="background-color:brown">807</span>            | <span style="background-color:brown">85%</span>                 |
+| <span style="background-color:brown">GLC-SHARE</span>   | <span style="background-color:brown">779</span>            | <span style="background-color:brown">82%</span>                 |
 | MODIS LC     | 604            | 63%                 |
 | Sentinel-2   | 542            | 57%                 |
 | CCI LC V2    | 504            | 53%                 |
 | GlobCover    | 475            | 50%                 |
+
 
 </div>
 
