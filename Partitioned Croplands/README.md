@@ -91,7 +91,7 @@
 
 <div align="center">
 
-![Comparison of Area](/Figures/Accuracy_assessment_table_1.PNG)
+![Accuracy_assessment](/Figures/Accuracy_assessment_table_1.PNG)
 
 </div>
 
@@ -101,3 +101,12 @@
 
 ![Comparison of Area](/Figures/Comparison_of_areas_.png)
 <p align="center"> Figure 03 - Cropland area in landcover products vs FAQ cultivated area </p>
+
+<div align="center">
+
+### Derivation of High Confidence Cropland Map (HCCM)
+
+</div >
+
+![Comparison of Area](/Figures/Degree_of_agreement_&_Landcover_type.PNG)
+<p align="center"> Figure 04 - Degree of agreement & Landcover type </p>
