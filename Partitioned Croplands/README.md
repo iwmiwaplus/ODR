@@ -89,49 +89,20 @@
 
 1. Independent accuracy assessment of crop masks using  crop validation dataset
 
+<div align="center">
 
-<table align = "center">
-  <tr>
-    <td>Product</td>
-    <td>Correct points</td>
-    <td>Accuracy assessment</td>
-  </tr>
-  <tr style="background-color: brown;">
-    <td>WaPOR</td>
-    <td>868</td>
-    <td>91%</td>
-  </tr>
-  <tr style="background-color: brown;">
-    <td>Copernicus</td>
-    <td>807</td>
-    <td>85%</td>
-  </tr>
-  <tr style="background-color: brown;">
-    <td>GLC-SHARE</td>
-    <td>779</td>
-    <td>82%</td>
-  </tr>
-  <tr>
-    <td>MODIS LC</td>
-    <td>604</td>
-    <td>63%</td>
-  </tr>
-  <tr>
-    <td>Sentinel-2</td>
-    <td>542</td>
-    <td>57%</td>
-  </tr>
-  <tr>
-    <td>CCI LC V2</td>
-    <td>504</td>
-    <td>53%</td>
-  </tr>
-  <tr>
-    <td>GlobCover</td>
-    <td>475</td>
-    <td>50%</td>
-  </tr>
-</table>
+| **Product**      | **Correct points** | **Accuracy** assessment |
+|--------------|----------------|---------------------|
+| WaPOR        | 868            | 91%                 |
+| Copernicus   | 807            | 85%                 |
+| GLC-SHARE    | 779            | 82%                 |
+| MODIS LC     | 604            | 63%                 |
+| Sentinel-2   | 542            | 57%                 |
+| CCI LC V2    | 504            | 53%                 |
+| GlobCover    | 475            | 50%                 |
+
+</div>
+
 <p align="center">Table 02 - Independent accuracy assessment of crop masks based on validation data </p>
 
 2. Comparison of the area of each crop mask to country level data on cultivated area from FAO’s Aquastat data portal
