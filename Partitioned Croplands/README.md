@@ -123,3 +123,20 @@
 
 ![Comparison of Area](/Figures/Degree_of_agreement_&_Landcover_type.PNG)
 <p align="center"> Figure 04 - Degree of agreement & Landcover type </p>
+
+## 4. Results
+
+<div align="center">
+
+### Agreement between landcover products
+
+</div >
+
+![Agreement between landcovers](/Figures/Agreement_landcover.png)
+<p align="center"> Figure 05 - Agreement between landcover products </p>
+
+- Average similarity of each product compared to the other seven was at least 50%
+
+- Driven by high agreement (≥ 62%) on barren (Sahara and Namib deserts), trees (central Africa) and to a smaller areal extent, water (African Great Lakes and other permanent lakes) classes 
+
+- Low agreement (≤ 50%) for shrubs, grass, cropland and wetland classes 
