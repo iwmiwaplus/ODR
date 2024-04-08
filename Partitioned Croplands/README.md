@@ -5,6 +5,19 @@
 
 </div>
 
+<p> 
+
+**A. Owusu<sup>1</sup>, S. Kagone<sup>2</sup>, M. Leh<sup>3</sup>, N. M. Velpuri<sup>3</sup>, M. Gumma<sup>4</sup>, B. Ghansah<sup>1</sup>, P. Thilina-Prabhath<sup>3</sup>, K. Akpoti<sup>1</sup>, K. Mekonnen<sup>5</sup>, P. Tinonetsana<sup>3</sup>, I. Mohammed<sup>4</sup>** 
+
+</P>
+
+<p>
+
+<sup>1</sup>International Water Management Institute (IWMI), Accra, Ghana, <sup>2</sup>ASRC Federal Data Solutions, Contractor to U.S. Geological Survey (USGS) Earth Resources Observation and Science (EROS) Center, Sioux Falls, USA, <sup>3</sup>International Water Management Institute (IWMI), Colombo, Sri Lanka, <sup>4</sup>International Crops Research Institute for the Semi-Arid Tropics (ICRISAT), Hyderabad, India, <sup>5</sup>International Water Management Institute (IWMI), Addis Ababa, Ethiopia
+
+</p>
+
+
 
 ## 1. Introduction
 
