@@ -66,7 +66,11 @@
 </div >
 
 ![Africa Data](/Figures/Data_africa.png)
-<p align="center"> Figure 01 - Cropland Validation Points </p>
+<div align="center">
+
+<small> Figure 01 - Cropland Validation Points </small>
+
+</div>
 
 ### Validation dataset
 - 955 (554 irrigated and 401 rainfed) cropland locations 
@@ -87,7 +91,12 @@
 
 ![E_P_Equation](/Figures/E_P_Equation.png)
 </div >
-<p align="center"> Figure 02 - Framework for partitioning croplands into rainfed and irrigated cropland areas </p>
+
+<div align="center">
+
+<small> Figure 02 - Framework for partitioning croplands into rainfed and irrigated cropland areas </small>
+
+</div>
 
 - <p > LUWA- Land Use for Water Accounting </P>
 - <p>TIF- Tag Image File format</P>
@@ -108,12 +117,21 @@
 
 </div>
 
-<p align="center">Table 02 - Independent accuracy assessment of crop masks based on validation data </p>
+<div align="center">
+
+<small>Table 02 - Independent accuracy assessment of crop masks based on validation data </small>
+
+</div>
 
 2. Comparison of the area of each crop mask to country level data on cultivated area from FAO’s Aquastat data portal
 
 ![Comparison of Area](/Figures/Comparison_of_areas_.png)
-<p align="center"> Figure 03 - Cropland area in landcover products vs FAQ cultivated area </p>
+
+<div align="center">
+
+<small> Figure 03 - Cropland area in landcover products vs FAQ cultivated area </small>
+
+</div>
 
 <div align="center">
 
@@ -122,7 +140,12 @@
 </div >
 
 ![Comparison of Area](/Figures/Degree_of_agreement_&_Landcover_type.PNG)
-<p align="center"> Figure 04 - Degree of agreement & Landcover type </p>
+
+<div align="center">
+
+<small> Figure 04 - Degree of agreement & Landcover type </small>
+
+</div>
 
 ## 4. Results
 
@@ -133,7 +156,12 @@
 </div >
 
 ![Agreement between landcovers](/Figures/Agreement_landcover.png)
-<p align="center"> Figure 05 - Agreement between landcover products </p>
+
+<div align="center">
+
+<small align="center"> Figure 05 - Agreement between landcover products </small>
+
+</div>
 
 - Average similarity of each product compared to the other seven was at least 50%
 
