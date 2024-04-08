@@ -69,12 +69,12 @@
 </div >
 
 ![Framework](/Figures/Framework.png)
-<p align="center"> Figure 02 - Framework for partitioning croplands into rainfed and irrigated cropland areas </p>
 
 <div align="center">
 
 ![E_P_Equation](/Figures/E_P_Equation.png)
 </div >
+<p align="center"> Figure 02 - Framework for partitioning croplands into rainfed and irrigated cropland areas </p>
 
 - <p > LUWA- Land Use for Water Accounting </P>
 - <p>TIF- Tag Image File format</P>
