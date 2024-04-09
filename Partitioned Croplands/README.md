@@ -86,9 +86,9 @@
 </div>
 
 ### Validation dataset
-- 955 (554 irrigated and 401 rainfed) cropland locations 
-- Curated by International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)
-- From field visits and high-resolution imagery from 2015- 2019
+- 955 (554 irrigated and 401 rainfed) cropland locations. 
+- Curated by International Crops Research Institute for the Semi-Arid Tropics (ICRISAT).
+- From field visits and high-resolution imagery from 2015- 2019.
 
 ## 3. Methods 
 
@@ -176,11 +176,11 @@
 
 </div>
 
-- Average similarity of each product compared to the other seven was at least 50%
+- Average similarity of each product compared to the other seven was at least 50%.
 
-- Driven by high agreement (≥ 62%) on barren (Sahara and Namib deserts), trees (central Africa) and to a smaller areal extent, water (African Great Lakes and other permanent lakes) classes 
+- Driven by high agreement (≥ 62%) on barren (Sahara and Namib deserts), trees (central Africa) and to a smaller areal extent, water (African Great Lakes and other permanent lakes) classes. 
 
-- Low agreement (≤ 50%) for shrubs, grass, cropland and wetland classes 
+- Low agreement (≤ 50%) for shrubs, grass, cropland and wetland classes. 
 
 <div align="center">
 
