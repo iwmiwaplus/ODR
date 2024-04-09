@@ -193,5 +193,15 @@
 
 - Low sensitivity - High rate of false negatives whereby some irrigated croplands are being missed and incorrectly labeled as rainfed.
 
+<div  align="center">
+  
+![Irrigated Area](/Figures/Irrigated_area.PNG)
+
+<small>Figure 07 - Amount of Irrigated Area</small>
+
+</div>
+
+
+
 
 
