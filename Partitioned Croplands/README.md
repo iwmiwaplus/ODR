@@ -180,7 +180,7 @@
 ### Partitioned cropland product
 
 </div>
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
   
 ![Landcover Types](/Figures/Landcover_type_2.png)
 
