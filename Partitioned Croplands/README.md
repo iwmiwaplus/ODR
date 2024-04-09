@@ -71,9 +71,11 @@
 </div >
 
 ![Africa Data](/Figures/Data_africa.png)
+
 <div align="center">
 
 <small> Figure 01 - Cropland Validation Points </small>
+
 </div>
 
 ### Validation dataset
@@ -172,3 +174,21 @@
 - Driven by high agreement (≥ 62%) on barren (Sahara and Namib deserts), trees (central Africa) and to a smaller areal extent, water (African Great Lakes and other permanent lakes) classes 
 
 - Low agreement (≤ 50%) for shrubs, grass, cropland and wetland classes 
+
+<div align="center">
+
+### Partitioned cropland product
+
+</div>
+<div style="display: flex;">
+  
+![Landcover Types](/Figures/Landcover_type_2.png)
+
+- High score of 92% for precision and specificity- Low rate of false positives and therefore framework is accurate when it identifies a cropland pixel as irrigated.
+
+- Low sensitivity - High rate of false negatives whereby some irrigated croplands are being missed and incorrectly labeled as rainfed.
+
+
+</div>
+
+
