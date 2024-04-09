@@ -122,7 +122,7 @@
 
 </div>
 
-1. Independent accuracy assessment of crop masks using  crop validation dataset
+1. Independent accuracy assessment of crop masks using  crop validation dataset.
 
 <div align="center">
 
@@ -136,7 +136,7 @@
 
 </div>
 
-2. Comparison of the area of each crop mask to country level data on cultivated area from FAO’s Aquastat data portal
+2. Comparison of the area of each crop mask to country level data on cultivated area from FAO’s Aquastat data portal.
 
 ![Comparison of Area](/Figures/Comparison_of_areas_new.png)
 
