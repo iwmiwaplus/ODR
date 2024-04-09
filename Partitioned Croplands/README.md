@@ -18,6 +18,13 @@
 </p>
 
 
+## Acknowledgements
+
+<p>This study was part of the Digital Innovation for Water Secure Africa (DIWASA) project. We gratefully acknowledge Helmsley Charitable Trust for its financial support to DIWASA project. The authors would like to acknowledge the remote sensing dataset providers and developers for producing and making their datasets available on the internet. The authors' views are their own and do not necessarily reflect the views of the funder. 
+</p>
+
+
+
 
 ## 1. Introduction
 
@@ -217,7 +224,21 @@
 
 </div>
 
+## 5. Conclusions
 
+- The study expands on the products available for detailed agricultural water management and food security studies across Africa, quantifies the disagreement between LULC products and identifies LULC products with accurate cropland classes at continental level following twofold accuracy assessment.
+
+- The framework performs well in disaggregating croplands into irrigated and rainfed areas across Africa, correctly identifying irrigated areas while making few errors in misidentifying rainfed areas as irrigated. 
+
+- Applying it to study changes in cropland area and characteristics, it is found that irrigated cropland area is increasing across Africa (20%), with formal and supplemental irrigation increasing at 26% and 12% respectively since 2013. This has implications for water resources management and governance.
+
+
+## Reference
+
+Owusu A., Kagone S., Leh M., Velpuri N. M., Gumma M. K., Ghansah B., Thilina-Prabhath P., Akpoti K., Mekonnen K., Tinonetsana P., Mohammed I. (in press). A Framework for Disaggregating Remote-Sensing Cropland into Rainfed and Irrigated Classes at Continental Scale. International Journal of Applied Earth Observation and Geoinformation
+
+<p>International Water Management Institute - December 2023</p>
+<!-- <p>December 2023</p> -->
 
 
 
