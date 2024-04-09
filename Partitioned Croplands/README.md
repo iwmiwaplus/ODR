@@ -69,7 +69,7 @@
 
 <small> 
 
-**Table 01 - Remote-sensing climate, and landcover and land use (LULC) products used in this study** 
+#### **Table 01 - Remote-sensing climate, and landcover and land use (LULC) products used in this study** 
 
 </small>
 
@@ -87,7 +87,7 @@
 
 <small> 
 
-**Figure 01 - Independent validation dataset of 955 rainfed and irrigated cropland locations across Africa**
+#### **Figure 01 - Independent validation dataset of 955 rainfed and irrigated cropland locations across Africa**
 
 </small>
 
@@ -117,7 +117,7 @@
 
 <small> 
 
-**Figure 02 - Methodology followed in deriving rainfed and irrigated cropland areas from remote-sensing landcover products. NB: LUWA- Land Use for Water Accounting; TIF- Tag Image File format**
+#### **Figure 02 - Methodology followed in deriving rainfed and irrigated cropland areas from remote-sensing landcover products. NB: LUWA- Land Use for Water Accounting; TIF- Tag Image File format**
 
  </small>
 
@@ -146,7 +146,7 @@
 
 <small>
 
-**Table 02 - Results of independent accuracy assessment of crop masks from landcover products (NB: GCEP30 was excluded from the accuracy assessment as the validation dataset used in this study was also used in producing GCEP30)**
+#### **Table 02 - Results of independent accuracy assessment of crop masks from landcover products (NB: GCEP30 was excluded from the accuracy assessment as the validation dataset used in this study was also used in producing GCEP30)**
 
  </small>
 
@@ -160,7 +160,7 @@
 
 <small> 
 
-**Figure 03 - Country-level FAO Aquastat data on cultivated area versus seven remote-sensing landcover products (where R2 is the the coefficient of determination)**
+#### **Figure 03 - Country-level FAO Aquastat data on cultivated area versus seven remote-sensing landcover products (where R2 is the the coefficient of determination)**
 
  </small>
 
@@ -178,7 +178,7 @@
 
 <small> 
 
-**Figure 04 - Degree of agreement (in %) of three cropland masks with highest scores in two-fold assessment (left) and High confidence cropland mask (HCCM) based on ≥ 66 % agreement between the three cropland masks with highest scores in two-fold assessmen (right)**
+#### **Figure 04 - Degree of agreement (in %) of three cropland masks with highest scores in two-fold assessment (left) and High confidence cropland mask (HCCM) based on ≥ 66 % agreement between the three cropland masks with highest scores in two-fold assessmen (right)**
  </small>
 
 </div>
@@ -197,7 +197,7 @@
 
 <small align="center"> 
 
-**Figure 05 - Degree of agreement (%) of the eight remote sensing landcover products for the eight landcover for Water Accounting (LUWA) classes**
+#### **Figure 05 - Degree of agreement (%) of the eight remote sensing landcover products for the eight landcover for Water Accounting (LUWA) classes**
 
  </small>
 
@@ -221,7 +221,7 @@
 
 <small>
 
-**Figure 06 - Disaggregated cropland product for Africa showing irrigated and rainfed areas as identified using the Budyko model. A distinction is made between cropland areas with blue ET ≥ 100 mm (formal irrigation) and cropland areas with blue ET ≤ 100 mm (supplemental irrigation)**
+#### **Figure 06 - Disaggregated cropland product for Africa showing irrigated and rainfed areas as identified using the Budyko model. A distinction is made between cropland areas with blue ET ≥ 100 mm (formal irrigation) and cropland areas with blue ET ≤ 100 mm (supplemental irrigation)**
 
 </small>
 
@@ -237,7 +237,7 @@
 
 <small>
 
-**Figure 07 - Amount of Irrigated Area**
+#### **Figure 07 - Amount of Irrigated Area**
 
 </small>
 
@@ -257,7 +257,7 @@
 
 <small>
 
-**Table 03 - Confusion matrix of rainfed and irrigated cropland product derived after partitioning HCCM using the Budyko model**
+#### **Table 03 - Confusion matrix of rainfed and irrigated cropland product derived after partitioning HCCM using the Budyko model**
 
 </small>
 
