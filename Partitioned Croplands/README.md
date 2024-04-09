@@ -201,6 +201,8 @@
 
 </div>
 
+<div  align="center">
+
 | Class                   | Rainfed | Irrigated | Total | User's accuracy | Commission errors |
 |-------------------------|---------|-----------|-------|-----------------|-------------------|
 | Rainfed                 | 321     | 27        | 348   | 92%             |    8%               |
@@ -211,6 +213,9 @@
 | Overall accuracy        |         |           |       |                 |         73%          |
 | Cohen’s kappa           |         |           |       |                 |            0.48%       |
 
+<small>Table 03 - Accuracy of rainfed and irrigated classes</small>
+
+</div>
 
 
 
