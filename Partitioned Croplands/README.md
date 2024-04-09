@@ -67,7 +67,11 @@
 
 <div align="center">
 
-<small> Table 01 - Remote-sensing climate, and landcover and land use (LULC) products used in this study </small>
+<small> 
+
+**Table 01 - Remote-sensing climate, and landcover and land use (LULC) products used in this study** 
+
+</small>
 
 </div>
 
