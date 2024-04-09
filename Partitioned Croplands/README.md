@@ -180,15 +180,18 @@
 ### Partitioned cropland product
 
 </div>
-<div style="display: flex; align-items: center;">
+
+<div  align="center">
   
 ![Landcover Types](/Figures/Landcover_type_2.png)
+
+<small>Figure 06 - Landcover Types</small>
+
+</div>
 
 - High score of 92% for precision and specificity- Low rate of false positives and therefore framework is accurate when it identifies a cropland pixel as irrigated.
 
 - Low sensitivity - High rate of false negatives whereby some irrigated croplands are being missed and incorrectly labeled as rainfed.
 
-
-</div>
 
 
