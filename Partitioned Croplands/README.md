@@ -138,7 +138,7 @@
 
 2. Comparison of the area of each crop mask to country level data on cultivated area from FAO’s Aquastat data portal
 
-![Comparison of Area](/Figures/Comparison_of_areas_.png)
+![Comparison of Area](/Figures/Comparison_of_areas_new.png)
 
 <div align="center">
 
