@@ -201,6 +201,17 @@
 
 </div>
 
+| Class                   | Rainfed | Irrigated | Total | User's accuracy | Commission errors |
+|-------------------------|---------|-----------|-------|-----------------|-------------------|
+| Rainfed                 | 321     | 27        | 348   | 92%             |    8%               |
+| Irrigated               | 208     | 305       | 513   | 59%             |     41%              |
+| Total                   | 529     | 332       | 861   |                 |                   |
+| Producer's accuracy (%) | 61%     | 92%       |       |                 |                   |
+| Omission errors (%)     | 39%     | 8%        |       |                 |                   |
+| Overall accuracy        |         |           |       |                 |         73%          |
+| Cohen’s kappa           |         |           |       |                 |            0.48%       |
+
+
 
 
 
